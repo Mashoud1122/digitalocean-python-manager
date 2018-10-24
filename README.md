@@ -11,5 +11,4 @@ app.py - keys for spaces
 <h2>
 Please E-Mail any bugs or suggestions, PLEASE!!!
 </h2>
-<p>-></p>
 <h3>xcoder1122@gmail.com</h3>
