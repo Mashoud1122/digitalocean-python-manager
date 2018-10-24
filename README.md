@@ -15,3 +15,10 @@ app.py - keys for spaces
 Please E-Mail any bugs or suggestions, PLEASE!!!
 </h2>
 <h3>xcoder1122@gmail.com</h3>
+
+
+<pre>
+python manage.py
+</pre>
+
+<h3>Enjoy ;)</h3>
