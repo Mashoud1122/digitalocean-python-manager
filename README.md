@@ -1,6 +1,7 @@
 # digitalocean-python-manager
 Digitalocean Management in Python3
-
+The script is really messy
+will sort that out in the next update
 
 <h3>
 Kindly add your keys in to the top parts of the following files:
