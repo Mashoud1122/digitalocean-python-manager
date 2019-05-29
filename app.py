@@ -41,7 +41,7 @@ def help():
     print("--------------------------------------")
     print("--------------------------------------")
     print("Advanced features will be added soon")
-    print("Kindly send any suggestions or bugs to - xcoder1122@gmail.com ")
+    print("Kindly send any suggestions or bugs to me: email-me")
     print("I will be very excited to add it")
 
 spaces_array = []
