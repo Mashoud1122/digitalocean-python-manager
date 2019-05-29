@@ -4,7 +4,7 @@ import os
 
 print("Stats->")
 print("+===========================================================================+")
-print("|| Kindly send any suggestions or bugs to - xcoder1122@gmail.com")
+print("|| Kindly send any suggestions or bugs to - email me")
 print("|| This will Help us A lot")
 print("||")
 print("||")
